@@ -1,18 +1,7 @@
 ﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-47.242.155.183,2053,true,HKG,Asia Pacific,Hong Kong,61 ms,26412 kB/s
-47.242.155.183,2096,true,HKG,Asia Pacific,Hong Kong,71 ms,26221 kB/s
-45.78.16.178,443,true,HKG,Asia Pacific,Hong Kong,245 ms,24069 kB/s
-47.242.155.183,8443,true,HKG,Asia Pacific,Hong Kong,55 ms,23552 kB/s
-47.128.164.52,9999,true,SIN,Asia Pacific,Singapore,97 ms,23090 kB/s
-8.218.204.128,2083,true,HKG,Asia Pacific,Hong Kong,70 ms,22179 kB/s
-8.218.204.128,8443,true,HKG,Asia Pacific,Hong Kong,66 ms,21350 kB/s
-8.218.204.128,2053,true,HKG,Asia Pacific,Hong Kong,69 ms,19929 kB/s
-8.218.204.128,2087,true,HKG,Asia Pacific,Hong Kong,64 ms,17285 kB/s
+
 211.22.240.107,30686,true,KHH,Asia Pacific,Kaohsiung City,87 ms,17084 kB/s
-8.218.204.128,2096,true,HKG,Asia Pacific,Hong Kong,61 ms,15525 kB/s
-45.66.128.216,2001,true,HKG,Asia Pacific,Hong Kong,77 ms,15401 kB/s
-147.78.242.122,50001,true,HKG,Asia Pacific,Hong Kong,77 ms,14618 kB/s
-20.249.83.244,8443,true,ICN,Asia Pacific,Seoul,96 ms,13916 kB/s
+
 154.3.37.27,9004,true,SIN,Asia Pacific,Singapore,111 ms,13420 kB/s
 45.66.128.216,2000,true,HKG,Asia Pacific,Hong Kong,79 ms,13375 kB/s
 31.22.116.134,2096,true,SJC,North America,San Jose,171 ms,12355 kB/s
